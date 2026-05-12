@@ -1,0 +1,79 @@
+---
+title: "My Projects"
+page-layout: full
+---
+
+A selection of my work — research, data projects, and tools I've built.
+
+------------------------------------------------------------------------
+
+## Featured Projects
+
+::::::: project-grid
+:::: {.project-card .featured}
+### Division 5 Agriculutral Water Use Dashboard
+
+This dashboard analyzes evapotranspiration and consumptive use for irrigated fields in Colorado Water Division 5. I combined OpenET evapotranspiration products with surface Diversion data from the Colorado Decision Support System (CDSS) API, and built an interactive dashboard to explore patterns in water use across the region. The goal is to provide insights into how water is being used for irrigation, identify trends over time, and inform water management decisions in this the Colorado Headwaters.
+
+**Tools:** R · OpenET · CDSS · RShiny
+
+::: project-links
+[Project Repo](https://github.com/nick-penzel/Ag_waterefficiency){.btn .btn-sm .btn-outline} [About and Methods](https://nicks-dashboards.shinyapps.io/wateruse/){.btn .btn-sm .btn-outline} [Agriculutral Water Use Dashboard](https://nicks-dashboards.shinyapps.io/wateruse/){.btn .btn-sm .btn-primary}
+:::
+::::
+
+:::: {.project-card .featured}
+### 📊 Project Title Two
+
+**\[Tag: Data Science\]** · \[Year\]
+
+Describe what you built, the key challenge, and the outcome. Keep it punchy — 2-3 sentences max.
+
+**Tools:** Python · scikit-learn · Plotly
+
+::: project-links
+[{{< fa brands github >}} Code](https://github.com/yourusername/repo){.btn .btn-sm .btn-outline} [{{< fa display >}} Dashboard](https://yoursite.com/dashboard){.btn .btn-sm .btn-primary}
+:::
+::::
+:::::::
+
+------------------------------------------------------------------------
+
+## Other Projects
+
+:::::: {.project-grid .small-grid}
+::: project-card
+### Project Three
+
+Short description. What did you make and why?\
+**Tools:** R · Shiny [GitHub](https://github.com/yourusername/repo){.project-link}
+:::
+
+::: project-card
+### Project Four
+
+Short description. What did you make and why?\
+**Tools:** Python · FastAPI [GitHub](https://github.com/yourusername/repo){.project-link}
+:::
+
+::: project-card
+### Project Five
+
+Short description. What did you make and why?\
+**Tools:** R · tidymodels [GitHub](https://github.com/yourusername/repo){.project-link}
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## Writing
+
+> **Protecting Montana’s Wetlands and Headwaters: State Policy Recommendations for
+the Post Sackett v. the EPA Era**\
+> Nick Penzel
+> 2025 · [PDF](media/state-policy-brief.pdf)
+
+> **International Governance in the Rio Grande/Bravo Basin:
+Mechanisms for Improved Governance in Response to Drought and Development**\
+> Nick Penzel
+> 2025 · [PDF](media/rio-grande-brief.pdf)

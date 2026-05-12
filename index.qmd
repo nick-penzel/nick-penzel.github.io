@@ -1,11 +1,96 @@
 ---
-title: "nick-penzel.github.io"
+# title: "Nick Penzel"
+# image: media/headshot.jpeg
+
+# about: 
+#   template: jolla
+#   image-shape: round
+#   image-width: 17em
+#   links:
+#     - text: LinkedIn
+#       href: https://www.linkedin.com/in/nicholas-penzel/
+#     - text: GitHub
+#       href: https://github.com/nick-penzel
+#     - text: Email
+#       href: mailto:ncpenzel@gmail.com
 ---
 
-This is a Quarto website.
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.about-grid}
 
-```{r}
+::: {.about-left}
+![](media/headshot.jpeg){.profile-img}
 
-```
+### Nick Penzel
+[Professional Science Masters]{.about-title}
+
+::: {.about-icons}
+[![](https://cdn.simpleicons.org/github/1D4D7A){.icon-img}](https://github.com/nick-penzel)
+[![](media/linkedin.png){.icon-img}](https://www.linkedin.com/in/nicholas-penzel/)
+[![](https://cdn.simpleicons.org/maildotru/1D4D7A){.icon-img}](mailto:ncpenzel@gmail.com)
+:::
+:::
+
+::: {.about-right}
+## My name is Nick Penzel
+
+I'm a water resources professional and data scientist finishing a Professional Science Master's in Ecosystem Science and Sustainability at Colorado State University, with a concentration in water resources. I grew up on a Colorado River tributary in Western Colorado, and watching firsthand how a river can shape a community is a big reason I'm here.
+
+My work lives at the intersection of hydrology, water policy, and data science. I build hydrological models, wrangle large datasets, do spatial analysis in R, and develop interactive tools that help people make sense of complex water systems and inform decision-making.
+
+Check out my recent projects page to get a sense of the problems I like to work on! I care a lot about doing the analysis right, but I believe its just as much about making it legible to the people who need to act on it.
+
+Before graduate school I studied Organismal Biology and Ecology at Colorado College, spent time as a USGS research technician collecting field data working on climate change impacts to American pikas.
+
+I think a lot about the ethics of Western water: who has access, who pays the cost, and how we govern a resource that is both an economic commodity and a basic right. That tension doesn't resolve cleanly, and I think sitting with that complexity as we move into uncertain climate scenarios is an essential framing.
+
+:::
+
+:::
+
+---
+
+## Education
+
+::: {.edu-grid}
+
+::: {.edu-item}
+**🎓 Professional Science Master in Ecosystem Science and Sustainability**  
+***Water resource concentration***
+
+Colorado State University · *2026*  
+
+:::
+
+::: {.edu-item}
+**🎓 B.A. in Organismal Biology and Ecology**  
+Minor in Journalism
+
+Colorado College · *2021*  
+:::
+
+:::
+
+---
+
+## Skills
+
+::: {.skills-grid}
+
+::: {.skill-card}
+### Languages
+R · SQL
+:::
+
+::: {.skill-card}
+### Tools
+QGIS · ArcGIS · HEC-HMS · Git · Quarto 
+:::
+
+::: {.skill-card}
+### Methods
+Machine Learning · Statistical Modeling · Data Visualization · Spatial Analysis · Hydrological Modeling
+:::
+
+:::

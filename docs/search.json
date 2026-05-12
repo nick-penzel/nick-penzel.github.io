@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nick Penzel",
+    "section": "",
+    "text": "I’m a [your role] at [your institution/company], working on [brief research/work focus]. I’m passionate about [topic] and [topic].\n\n{{&lt; fa envelope &gt;}} Email {{&lt; fa brands github &gt;}} GitHub {{&lt; fa file-pdf &gt;}} CV\n::: :::"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,73 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "nick-penzel.github.io",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "My Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "A selection of my work — research, data projects, and tools I’ve built."
+  },
+  {
+    "objectID": "resources.html#featured-projects",
+    "href": "resources.html#featured-projects",
+    "title": "My Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\nDivision 5 Agriculutral Water Use Dashboard\nThis dashboard analyzes evapotranspiration and consumptive use for irrigated fields in Colorado Water Division 5. I combined OpenET evapotranspiration products with surface Diversion data from the Colorado Decision Support System (CDSS) API, and built an interactive dashboard to explore patterns in water use across the region. The goal is to provide insights into how water is being used for irrigation, identify trends over time, and inform water management decisions in this the Colorado Headwaters.\nTools: R · OpenET · CDSS · RShiny\n\nProject Repo About and Methods Agriculutral Water Use Dashboard\n\n\n\n📊 Project Title Two\n[Tag: Data Science] · [Year]\nDescribe what you built, the key challenge, and the outcome. Keep it punchy — 2-3 sentences max.\nTools: Python · scikit-learn · Plotly\n\n{{&lt; fa brands github &gt;}} Code {{&lt; fa display &gt;}} Dashboard"
+  },
+  {
+    "objectID": "resources.html#other-projects",
+    "href": "resources.html#other-projects",
+    "title": "My Projects",
+    "section": "Other Projects",
+    "text": "Other Projects\n\n\nProject Three\nShort description. What did you make and why?\nTools: R · Shiny GitHub\n\n\nProject Four\nShort description. What did you make and why?\nTools: Python · FastAPI GitHub\n\n\nProject Five\nShort description. What did you make and why?\nTools: R · tidymodels GitHub"
+  },
+  {
+    "objectID": "resources.html#publications",
+    "href": "resources.html#publications",
+    "title": "My Projects",
+    "section": "Publications",
+    "text": "Publications\n\nPaper Title Here\nYour Name, Coauthor Name\nJournal Name, Year · DOI link\n\n\nAnother Paper Title\nYour Name, Coauthor Name\nConference Name, Year · PDF"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Nick Penzel",
+    "section": "About Me",
+    "text": "About Me\nI am a [describe yourself — researcher, developer, data scientist, etc.] at [Institution/Company]. My work focuses on [your area of interest]. I enjoy [hobby/interest] and [hobby/interest] outside of work.\nFeel free to reach out at ncpenzel@gmail.com — I’m always happy to chat about research, collaboration, or just interesting ideas."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nick Penzel",
+    "section": "Education",
+    "text": "Education\n\n\n🎓 Professional Science Master in Ecosystem Science and Sustainability\nWater resource concentration\nColorado State University · 2026\n\n\n🎓 B.A. in Organismal Biology and Ecology\nMinor in Journalism\nColorado College · 2021"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Nick Penzel",
+    "section": "Skills",
+    "text": "Skills\n\n\nLanguages\nR · SQL\n\n\nTools\nQGIS · ArcGIS · HEC-HMS · Git · Quarto\n\n\nMethods\nMachine Learning · Statistical Modeling · Data Visualization · Spatial Analysis · Hydrological Modeling"
+  },
+  {
+    "objectID": "index.html#my-name-is-j.-michael-johnson-but-everyone-calls-me-mike.",
+    "href": "index.html#my-name-is-j.-michael-johnson-but-everyone-calls-me-mike.",
+    "title": "Nick Penzel",
+    "section": "My name is J. Michael Johnson, but everyone calls me Mike.",
+    "text": "My name is J. Michael Johnson, but everyone calls me Mike.\nAs the Chief Data Scientist at Lynker, I’m deeply engaged in the field of hydroinformatics, drawing inspiration from my passion for geospatial science. My expertise lies in merging data-intensive computational geography with water resources research, all through a geospatial lens.\nEmbedded within NOAA’s National Water Center’s mission to revolutionize water modeling, I’m leading the hydrofabric development for the Next Generation National Water Model and Flood Inundation Mapping programs. At the heart of my approach lies the development of cutting-edge open-source software solutions, fostering collaboration across the scientific community, and the pursuit of cutting-edge research. With partners at Lynker, NOAA, and the USGS, we’re not just defining a new suite of federal hydroinformatics products; we’re redefining how we understand, represent, and manage water resources on a national scale.\nThroughout my career, I’ve published in journals like WRR, Nature Scientific Data, Science Advances, EMS, and JGR Atmospheres and am eager to continue pushing the boundaries of what’s possible in hydrology, data science and geospatial analysis.\nSo if you’re ready to make waves in hydroinformatics, let’s join forces!"
+  },
+  {
+    "objectID": "index.html#my-name-is-nick-penzel",
+    "href": "index.html#my-name-is-nick-penzel",
+    "title": "Nick Penzel",
+    "section": "My name is Nick Penzel",
+    "text": "My name is Nick Penzel\nI’m a water resources professional and data scientist finishing a Professional Science Master’s in Ecosystem Science and Sustainability at Colorado State University, with a concentration in water resources. I grew up on a Colorado River tributary in Western Colorado, and watching firsthand how a river can shape a community is a big reason I’m here.\nMy work lives at the intersection of hydrology, water policy, and data science. I build hydrological models, wrangle large datasets, do spatial analysis in R, and develop interactive tools that help people make sense of complex water systems and inform decision-making.\nCheck out my recent projects page to get a sense of the problems I like to work on! I care a lot about doing the analysis right, but I believe its just as much about making it legible to the people who need to act on it.\nBefore graduate school I studied Organismal Biology and Ecology at Colorado College, spent time as a USGS research technician collecting field data working on climate change impacts to American pikas.\nI think a lot about the ethics of Western water: who has access, who pays the cost, and how we govern a resource that is both an economic commodity and a basic right. That tension doesn’t resolve cleanly, and I think sitting with that complexity as we move into uncertain climate scenarios is an essential framing."
+  },
+  {
+    "objectID": "resources.html#writing",
+    "href": "resources.html#writing",
+    "title": "My Projects",
+    "section": "Writing",
+    "text": "Writing\n\nProtecting Montana’s Wetlands and Headwaters: State Policy Recommendations for the Post Sackett v. the EPA Era\nNick Penzel 2025 · PDF\n\n\nInternational Governance in the Rio Grande/Bravo Basin: Mechanisms for Improved Governance in Response to Drought and Development\nNick Penzel 2025 · PDF"
   }
 ]

@@ -3,20 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "nick-penzel.github.io"
+  title: "Nick Penzel"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    - href: index.qmd
+      text: About
+    - href: resources.qmd
+      text: Projects
+    - href: media/resume.pdf
+      text: Resume
+      
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
